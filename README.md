@@ -8,6 +8,7 @@ this repository is from an idea of replace the matherboard malfunction with a ra
 # keybaod
 [keyboard controler](https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/)
 [another reference](https://www.hackster.io/frank-adams/laptop-keyboard-conversion-to-usb-0771f1)
+[ref 3](https://www.ti.com/tool/TIDM-KEYBOARD)
 
 
 # Trackpad
