@@ -16,6 +16,7 @@ this repository is from an idea of replace the matherboard malfunction with a ra
 
 # Baterry
 -Possible mod with 18650 and some BMS, for cheaper and fast replacement
+[Version 4 of the diyBMS](https://github.com/stuartpittaway/diyBMSv4)
 
 # projects related
 [Convert a Sony Vaio into a Raspberry Pi and Teensy laptop](https://github.com/thedalles77/Pi_Teensy_Laptop/)
