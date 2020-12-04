@@ -18,5 +18,9 @@ this repository is from an idea of replace the matherboard malfunction with a ra
 -Possible mod with 18650 and some BMS, for cheaper and fast replacement
 [Version 4 of the diyBMS](https://github.com/stuartpittaway/diyBMSv4)
 
+software idea:
+make a panel applet via serial to replace the web GUI.
+[example of applet for mate](https://github.com/furas/mate-python-applets)
+
 # projects related
 [Convert a Sony Vaio into a Raspberry Pi and Teensy laptop](https://github.com/thedalles77/Pi_Teensy_Laptop/)
