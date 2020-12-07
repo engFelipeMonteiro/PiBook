@@ -27,6 +27,9 @@ make a panel applet via serial to replace the web GUI.
 [example of applet for mate](https://github.com/furas/mate-python-applets)
 
 [another Applet projecto](https://ubuntu-mate.community/t/my-first-panel-applet/19769)
+
+[LXDE PANEL APPLET ](https://github.com/Sepero/lxpanel-pyvolume/blob/master/volume-applet)
+
 # projects related
 
 [Convert a Sony Vaio into a Raspberry Pi and Teensy laptop](https://github.com/thedalles77/Pi_Teensy_Laptop/)
